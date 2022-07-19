@@ -117,7 +117,7 @@ footer {
     }
 }
 
-@media (min-height: 2400px) {
+@media (min-height: 2000px) {
     .container {
         height: 100%;
         flex-wrap: wrap;
