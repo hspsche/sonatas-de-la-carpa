@@ -116,3 +116,24 @@ footer {
         margin-top: 40px;
     }
 }
+
+@media (min-height: 2400px) {
+    .container {
+        height: 100%;
+        flex-wrap: wrap;
+        flex-direction: column;        
+    }
+
+    body {
+        height: 100%;
+    }
+    
+    .card-container {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+
+    footer {
+        margin-top: 40px;
+    }
+}
